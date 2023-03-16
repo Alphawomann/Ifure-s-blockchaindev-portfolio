@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App"> 
       <header>
-      <h4>MyLogo</h4>
+      <p>Ifure Iwuoenang</p>
       <div className="navlinks">
         <a href="#home">Home</a>
         <a href="#about">About</a>
@@ -25,7 +25,7 @@ function App() {
   <Home/>
   <About/> 
   <Projects/>
-  <Contact/>
+  <Contact/> 
   </main>
   <footer>
 <div className="socials">
@@ -41,7 +41,7 @@ function App() {
   <img src={Githublogo} alt=""/>
   </a> 
 </div>
-<p>&copy; Ifure Iwuoenang</p>
+<p>&copy; Ifure Iwuoenang</p> 
   </footer>
     </div>
   )
