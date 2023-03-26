@@ -1,4 +1,4 @@
-import ifure from '../assets/ifure.jpg'
+import ifure from '../assets/alpha.jpg'
 
 function About() {
 
