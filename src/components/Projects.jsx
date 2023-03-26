@@ -11,21 +11,23 @@ function Projects() {
   <div className="boxcontainer"> 
     <div className="box"> 
 <img src={nft} alt="An NFT logo"/>
-< a href="https://github.com/Alphawomann/NFT.git">Github link</a> 
+< a href="https://github.com/Alphawomann/NFT.git">Github link to NFT source code</a> 
     </div> 
 
     <div className="box"> 
 <img src={ERC20} alt="An ERC20 picture"/>
-< a href="https://github.com/Alphawomann/ERC20-">Github link</a> 
+< a href="https://github.com/Alphawomann/ERC20-">Github link to ERC20 source code</a> 
     </div> 
 
     <div className="box"> 
 <img src={crowd} alt="This is a crowdfunding image"/>
-< a href="https://github.com/Alphawomann/crowdfunding-">Github link</a> 
+< a href="https://github.com/Alphawomann/crowdfunding-">Github link to crowdfunding source code</a> 
     </div> 
 
   </div>  
       </div> 
+
+      
     )
   }
   
