@@ -59,6 +59,7 @@ header, .about-container,
 .about-container,
 #projects{
     padding: 20px;
+    
 }
 
 h2{
@@ -82,7 +83,7 @@ h2{
 }
 
 .box{
-width: 30%;
+width: 40%;
 margin: 20px;
 box-shadow:2px 2px 2px 2px rgba(128, 128, 128, 0.781);
 padding: 10px;
@@ -91,10 +92,14 @@ padding: 10px;
 .box img{
     width: 100%;
     border-radius: 10px;
+    height: 92%;
 }
 
 #projects p{
     text-align: center;
+    width: 70;
+    height: 70%;
+    
 }
 
 #contact{
